@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your code. This document outlines the functionality, hardware components, and how to run the code:
-
----
 
 # Edge avoiding Robot with Arduino and Ultrasonic Sensor
 
